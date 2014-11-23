@@ -1,6 +1,6 @@
 %--------------------------------------------------------------------
 %
-% Copyright (c) 2011 Mikhail Franco
+% Copyright (c) 2011 Mike French
 %
 % This software is released under the MIT license
 % http://www.opensource.org/licenses/mit-license.php
